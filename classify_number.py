@@ -43,6 +43,6 @@ def classify_number(n):
         return "positive odd" 
     
 
-n = int(input())
+#n = int(input())
 
-print(classify_number(n))
+#print(classify_number(n))
