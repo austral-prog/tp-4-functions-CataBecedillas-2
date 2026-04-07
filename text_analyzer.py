@@ -68,8 +68,6 @@ def analyze_text(text):
     
     return f'V:{vowels} C:{consonants} T:{total_letras} P:{percentage}%'
 
-text = input()
-
-print(total_letters(text))
-print(vowel_percentage(text))
-print(analyze_text(text))
+#print(total_letters(text))
+#print(vowel_percentage(text))
+#print(analyze_text(text))

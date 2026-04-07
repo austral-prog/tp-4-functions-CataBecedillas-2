@@ -46,16 +46,16 @@ def best_deal(price_a, qty_a, disc_a, price_b, qty_b, disc_b, tax_pct):
     else:
         return "A"
 
-quantity = int(input())
-price = float(input())
-discount_pct = int(input())
-tax_pct = int(input())
-price_a = float(input())
-qty_a = int(input())
-disc_a = int(input())
-price_b = float(input())
-qty_b = int(input())
-disc_b = int(input())
+#quantity = int(input())
+#price = float(input())
+#discount_pct = int(input())
+#tax_pct = int(input())
+#price_a = float(input())
+#qty_a = int(input())
+#disc_a = int(input())
+#price_b = float(input())
+#qty_b = int(input())
+#disc_b = int(input())
 
-print(final_price(price, quantity, discount_pct, tax_pct))
-print(best_deal(price_a, qty_a, disc_a, price_b, qty_b, disc_b, tax_pct))
+#print(final_price(price, quantity, discount_pct, tax_pct))
+#print(best_deal(price_a, qty_a, disc_a, price_b, qty_b, disc_b, tax_pct))

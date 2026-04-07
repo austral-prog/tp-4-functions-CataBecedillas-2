@@ -50,12 +50,12 @@ def derivation(a, b, c):
     else:
         return f"f'(x) = {derivada}"
 
-a = float(input())
-b = float(input())
-c = float(input())
-x = int(input())
+#a = float(input())
+#b = float(input())
+#c = float(input())
+#x = int(input())
 
-print(roots(a, b, c))
-print(value_y(a, b, c, x))
-print(to_string(a, b, c))
-print(derivation(a, b, c))
+#print(roots(a, b, c))
+#print(value_y(a, b, c, x))
+#print(to_string(a, b, c))
+#print(derivation(a, b, c))

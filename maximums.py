@@ -18,9 +18,9 @@ def max_of_three(x, y, z):
     max4 = max(max3, z) #con esa informacion lo comparas con la z.
     return max4 #le pedis a la funcion que te devuelva cual es el maximo entre los tres.
 
-x = int(input())
-y = int(input()) #le pones input a las variables.
-z = int(input())
+#x = int(input())
+#y = int(input()) #le pones input a las variables.
+#z = int(input())
 
-print(max_of_two(x, y))       #llamas a la funcion
-print(max_of_three(x, y, z))
+#print(max_of_two(x, y))       #llamas a la funcion
+#print(max_of_three(x, y, z))

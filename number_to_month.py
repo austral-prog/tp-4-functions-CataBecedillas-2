@@ -43,7 +43,7 @@ def number_to_month(month):
     
     return name1
 
-month = int(input())
+#month = int(input())
 
 
-print(number_to_month(month))
+#print(number_to_month(month))
